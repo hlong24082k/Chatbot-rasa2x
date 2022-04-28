@@ -1,178 +1,10 @@
 [
   {
-    "text": "cách tuyển sinh 2021",
-    "intent": "ask_admissions",
-    "intent_prediction": {
-      "name": "ask_admissions_way2",
-      "confidence": 0.32540005445480347
-    }
-  },
-  {
-    "text": "cách xét tuyển 2021",
-    "intent": "ask_admissions",
-    "intent_prediction": {
-      "name": "ask_admissions_way2",
-      "confidence": 0.40769484639167786
-    }
-  },
-  {
-    "text": "tuyển sinh cách 1 là sao",
-    "intent": "ask_admissions_way1",
-    "intent_prediction": {
-      "name": "ask_admissions_way4",
-      "confidence": 0.5366187691688538
-    }
-  },
-  {
-    "text": "cách tuyển sinh 1",
-    "intent": "ask_admissions_way1",
-    "intent_prediction": {
-      "name": "ask_admissions_way2",
-      "confidence": 0.32540005445480347
-    }
-  },
-  {
-    "text": "cách xét tuyển 1",
-    "intent": "ask_admissions_way1",
-    "intent_prediction": {
-      "name": "ask_admissions_way2",
-      "confidence": 0.40769484639167786
-    }
-  },
-  {
-    "text": "phương thức 1",
-    "intent": "ask_admissions_way1",
-    "intent_prediction": {
-      "name": "ask_admissions_way2",
-      "confidence": 0.3570261001586914
-    }
-  },
-  {
-    "text": "phuong thuc 1",
-    "intent": "ask_admissions_way1",
-    "intent_prediction": {
-      "name": "ask_admissions_way2",
-      "confidence": 0.4553491175174713
-    }
-  },
-  {
-    "text": "cách xét tuyển thứ 1",
-    "intent": "ask_admissions_way1",
-    "intent_prediction": {
-      "name": "ask_admissions_way4",
-      "confidence": 0.773796558380127
-    }
-  },
-  {
-    "text": "cach tuyen sinh 1",
-    "intent": "ask_admissions_way1",
-    "intent_prediction": {
-      "name": "ask_admissions_way2",
-      "confidence": 0.43338528275489807
-    }
-  },
-  {
-    "text": "tuyển sinh cách 2 là sao",
-    "intent": "ask_admissions_way2",
-    "intent_prediction": {
-      "name": "ask_admissions_way4",
-      "confidence": 0.5366187691688538
-    }
-  },
-  {
-    "text": "cách thứ 2",
-    "intent": "ask_admissions_way2",
-    "intent_prediction": {
-      "name": "ask_admissions_way4",
-      "confidence": 0.6707367300987244
-    }
-  },
-  {
-    "text": "cách xét tuyển thứ 3 là như thế nào",
-    "intent": "ask_admissions_way3",
-    "intent_prediction": {
-      "name": "ask_admissions_way4",
-      "confidence": 0.6680516600608826
-    }
-  },
-  {
-    "text": "tuyển sinh cách 3 là sao",
-    "intent": "ask_admissions_way3",
-    "intent_prediction": {
-      "name": "ask_admissions_way4",
-      "confidence": 0.5366187691688538
-    }
-  },
-  {
-    "text": "giải thích cụ thể giúp em cách 3 với",
-    "intent": "ask_admissions_way3",
-    "intent_prediction": {
-      "name": "ask_admissions_way4",
-      "confidence": 0.550063967704773
-    }
-  },
-  {
-    "text": "cách tuyển sinh 3",
-    "intent": "ask_admissions_way3",
-    "intent_prediction": {
-      "name": "ask_admissions_way2",
-      "confidence": 0.32540005445480347
-    }
-  },
-  {
-    "text": "cách xét tuyển 3",
-    "intent": "ask_admissions_way3",
-    "intent_prediction": {
-      "name": "ask_admissions_way2",
-      "confidence": 0.40769484639167786
-    }
-  },
-  {
-    "text": "phương thức 3",
-    "intent": "ask_admissions_way3",
-    "intent_prediction": {
-      "name": "ask_admissions_way2",
-      "confidence": 0.3570261001586914
-    }
-  },
-  {
-    "text": "phuong thuc 3",
-    "intent": "ask_admissions_way3",
-    "intent_prediction": {
-      "name": "ask_admissions_way2",
-      "confidence": 0.4553491175174713
-    }
-  },
-  {
-    "text": "cach tuyen sinh 3",
-    "intent": "ask_admissions_way3",
-    "intent_prediction": {
-      "name": "ask_admissions_way2",
-      "confidence": 0.43338528275489807
-    }
-  },
-  {
-    "text": "phương thức 4",
+    "text": "xet tuyen thang",
     "intent": "ask_admissions_way4",
     "intent_prediction": {
-      "name": "ask_admissions_way2",
-      "confidence": 0.3570261001586914
-    }
-  },
-  {
-    "text": "phuong thuc 4",
-    "intent": "ask_admissions_way4",
-    "intent_prediction": {
-      "name": "ask_admissions_way2",
-      "confidence": 0.4553491175174713
-    }
-  },
-  {
-    "text": "cach tuyen sinh 4",
-    "intent": "ask_admissions_way4",
-    "intent_prediction": {
-      "name": "ask_admissions_way2",
-      "confidence": 0.43338528275489807
+      "name": "ask_time",
+      "confidence": 0.2209731638431549
     }
   },
   {
@@ -180,7 +12,31 @@
     "intent": "ask_have_admissions_by_school_profile",
     "intent_prediction": {
       "name": "ask_admissions_way2",
-      "confidence": 0.5928792357444763
+      "confidence": 0.5487663745880127
+    }
+  },
+  {
+    "text": "dia chi cua truong la bao nhieu",
+    "intent": "university_address",
+    "intent_prediction": {
+      "name": "ask_giang_duong",
+      "confidence": 0.3359909653663635
+    }
+  },
+  {
+    "text": "truong co thu vien ko",
+    "intent": "ask_library",
+    "intent_prediction": {
+      "name": "ask_phone_number",
+      "confidence": 0.2749535143375397
+    }
+  },
+  {
+    "text": "khi nào bắt đầu thi thpt",
+    "intent": "info_exam",
+    "intent_prediction": {
+      "name": "ask_time",
+      "confidence": 0.29505425691604614
     }
   }
 ]

@@ -1,163 +1,9 @@
 {
-  "ask_volunteer": {
-    "precision": 1.0,
-    "recall": 1.0,
-    "f1-score": 1.0,
-    "support": 11,
-    "confused_with": {}
-  },
-  "ask_fee": {
-    "precision": 1.0,
-    "recall": 1.0,
-    "f1-score": 1.0,
-    "support": 11,
-    "confused_with": {}
-  },
-  "ask_dh_chinh_quy": {
-    "precision": 1.0,
-    "recall": 1.0,
-    "f1-score": 1.0,
-    "support": 7,
-    "confused_with": {}
-  },
-  "info_exam": {
+  "greet": {
     "precision": 1.0,
     "recall": 1.0,
     "f1-score": 1.0,
     "support": 10,
-    "confused_with": {}
-  },
-  "goodbye": {
-    "precision": 1.0,
-    "recall": 1.0,
-    "f1-score": 1.0,
-    "support": 11,
-    "confused_with": {}
-  },
-  "ask_main_link": {
-    "precision": 1.0,
-    "recall": 1.0,
-    "f1-score": 1.0,
-    "support": 13,
-    "confused_with": {}
-  },
-  "ask_admissions_way1": {
-    "precision": 1.0,
-    "recall": 0.65,
-    "f1-score": 0.787878787878788,
-    "support": 20,
-    "confused_with": {
-      "ask_admissions_way2": 5,
-      "ask_admissions_way4": 2
-    }
-  },
-  "ask_have_domitory": {
-    "precision": 1.0,
-    "recall": 1.0,
-    "f1-score": 1.0,
-    "support": 14,
-    "confused_with": {}
-  },
-  "ask_study_time": {
-    "precision": 1.0,
-    "recall": 1.0,
-    "f1-score": 1.0,
-    "support": 10,
-    "confused_with": {}
-  },
-  "time_to_study": {
-    "precision": 1.0,
-    "recall": 1.0,
-    "f1-score": 1.0,
-    "support": 14,
-    "confused_with": {}
-  },
-  "ask_student_support": {
-    "precision": 1.0,
-    "recall": 1.0,
-    "f1-score": 1.0,
-    "support": 21,
-    "confused_with": {}
-  },
-  "ask_admissions": {
-    "precision": 1.0,
-    "recall": 0.9555555555555556,
-    "f1-score": 0.9772727272727273,
-    "support": 45,
-    "confused_with": {
-      "ask_admissions_way2": 2
-    }
-  },
-  "ask_admissions_code": {
-    "precision": 1.0,
-    "recall": 1.0,
-    "f1-score": 1.0,
-    "support": 18,
-    "confused_with": {}
-  },
-  "ask_clubs": {
-    "precision": 1.0,
-    "recall": 1.0,
-    "f1-score": 1.0,
-    "support": 11,
-    "confused_with": {}
-  },
-  "ask_major": {
-    "precision": 1.0,
-    "recall": 1.0,
-    "f1-score": 1.0,
-    "support": 17,
-    "confused_with": {}
-  },
-  "ask_admissions_online": {
-    "precision": 1.0,
-    "recall": 1.0,
-    "f1-score": 1.0,
-    "support": 16,
-    "confused_with": {}
-  },
-  "ask_have_hold_an_exam": {
-    "precision": 1.0,
-    "recall": 1.0,
-    "f1-score": 1.0,
-    "support": 7,
-    "confused_with": {}
-  },
-  "compare_way1_way2": {
-    "precision": 1.0,
-    "recall": 1.0,
-    "f1-score": 1.0,
-    "support": 15,
-    "confused_with": {}
-  },
-  "ask_how_to_apply": {
-    "precision": 1.0,
-    "recall": 1.0,
-    "f1-score": 1.0,
-    "support": 19,
-    "confused_with": {}
-  },
-  "ask_admissions_way2": {
-    "precision": 0.5151515151515151,
-    "recall": 0.8947368421052632,
-    "f1-score": 0.6538461538461537,
-    "support": 19,
-    "confused_with": {
-      "ask_admissions_way4": 2
-    }
-  },
-  "university_address": {
-    "precision": 1.0,
-    "recall": 1.0,
-    "f1-score": 1.0,
-    "support": 16,
-    "confused_with": {}
-  },
-  "ask_library": {
-    "precision": 1.0,
-    "recall": 1.0,
-    "f1-score": 1.0,
-    "support": 13,
     "confused_with": {}
   },
   "ask_admissions_target": {
@@ -174,25 +20,34 @@
     "support": 26,
     "confused_with": {}
   },
-  "greet": {
+  "ask_have_domitory": {
     "precision": 1.0,
     "recall": 1.0,
     "f1-score": 1.0,
-    "support": 10,
+    "support": 14,
     "confused_with": {}
   },
-  "ask_time": {
+  "ask_volunteer": {
     "precision": 1.0,
     "recall": 1.0,
     "f1-score": 1.0,
-    "support": 12,
+    "support": 11,
     "confused_with": {}
   },
-  "ask_phone_number": {
+  "university_address": {
     "precision": 1.0,
-    "recall": 1.0,
-    "f1-score": 1.0,
+    "recall": 0.9375,
+    "f1-score": 0.967741935483871,
     "support": 16,
+    "confused_with": {
+      "ask_giang_duong": 1
+    }
+  },
+  "ask_have_hold_an_exam": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 7,
     "confused_with": {}
   },
   "bot_challenge": {
@@ -202,12 +57,35 @@
     "support": 10,
     "confused_with": {}
   },
-  "ask_form_regis": {
+  "ask_time": {
+    "precision": 0.8571428571428571,
+    "recall": 1.0,
+    "f1-score": 0.923076923076923,
+    "support": 12,
+    "confused_with": {}
+  },
+  "compare_way1_way2": {
     "precision": 1.0,
     "recall": 1.0,
     "f1-score": 1.0,
-    "support": 12,
+    "support": 15,
     "confused_with": {}
+  },
+  "ask_admissions_way2": {
+    "precision": 0.95,
+    "recall": 1.0,
+    "f1-score": 0.9743589743589743,
+    "support": 19,
+    "confused_with": {}
+  },
+  "info_exam": {
+    "precision": 1.0,
+    "recall": 0.9,
+    "f1-score": 0.9473684210526316,
+    "support": 10,
+    "confused_with": {
+      "ask_time": 1
+    }
   },
   "needhelp": {
     "precision": 1.0,
@@ -216,24 +94,95 @@
     "support": 15,
     "confused_with": {}
   },
-  "ask_uniform": {
+  "ask_admissions_way3": {
     "precision": 1.0,
     "recall": 1.0,
     "f1-score": 1.0,
-    "support": 9,
+    "support": 19,
     "confused_with": {}
   },
-  "ask_admissions_way3": {
+  "ask_main_link": {
     "precision": 1.0,
-    "recall": 0.5789473684210527,
-    "f1-score": 0.7333333333333334,
-    "support": 19,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 13,
+    "confused_with": {}
+  },
+  "ask_giang_duong": {
+    "precision": 0.9090909090909091,
+    "recall": 1.0,
+    "f1-score": 0.9523809523809523,
+    "support": 10,
+    "confused_with": {}
+  },
+  "ask_admissions": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 45,
+    "confused_with": {}
+  },
+  "ask_library": {
+    "precision": 1.0,
+    "recall": 0.9230769230769231,
+    "f1-score": 0.9600000000000001,
+    "support": 13,
     "confused_with": {
-      "ask_admissions_way2": 5,
-      "ask_admissions_way4": 3
+      "ask_phone_number": 1
     }
   },
+  "ask_have_admissions_by_school_profile": {
+    "precision": 1.0,
+    "recall": 0.9565217391304348,
+    "f1-score": 0.9777777777777777,
+    "support": 23,
+    "confused_with": {
+      "ask_admissions_way2": 1
+    }
+  },
+  "ask_phone_number": {
+    "precision": 0.9411764705882353,
+    "recall": 1.0,
+    "f1-score": 0.9696969696969697,
+    "support": 16,
+    "confused_with": {}
+  },
+  "ask_study_time": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 10,
+    "confused_with": {}
+  },
   "ask_admissions_link": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 11,
+    "confused_with": {}
+  },
+  "ask_admissions_way1": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "time_to_study": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 14,
+    "confused_with": {}
+  },
+  "ask_fee": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 11,
+    "confused_with": {}
+  },
+  "ask_clubs": {
     "precision": 1.0,
     "recall": 1.0,
     "f1-score": 1.0,
@@ -248,41 +197,88 @@
     "confused_with": {}
   },
   "ask_admissions_way4": {
-    "precision": 0.7307692307692307,
-    "recall": 0.8636363636363636,
-    "f1-score": 0.7916666666666666,
+    "precision": 1.0,
+    "recall": 0.9545454545454546,
+    "f1-score": 0.9767441860465117,
     "support": 22,
     "confused_with": {
-      "ask_admissions_way2": 3
+      "ask_time": 1
     }
   },
-  "ask_giang_duong": {
+  "ask_how_to_apply": {
     "precision": 1.0,
     "recall": 1.0,
     "f1-score": 1.0,
-    "support": 10,
+    "support": 19,
     "confused_with": {}
   },
-  "ask_have_admissions_by_school_profile": {
+  "ask_student_support": {
     "precision": 1.0,
-    "recall": 0.9565217391304348,
-    "f1-score": 0.9777777777777777,
-    "support": 23,
-    "confused_with": {
-      "ask_admissions_way2": 1
-    }
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 21,
+    "confused_with": {}
   },
-  "accuracy": 0.9597902097902098,
+  "ask_dh_chinh_quy": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 7,
+    "confused_with": {}
+  },
+  "ask_admissions_code": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 18,
+    "confused_with": {}
+  },
+  "ask_form_regis": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 12,
+    "confused_with": {}
+  },
+  "ask_uniform": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 9,
+    "confused_with": {}
+  },
+  "ask_admissions_online": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 16,
+    "confused_with": {}
+  },
+  "ask_major": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 17,
+    "confused_with": {}
+  },
+  "goodbye": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 11,
+    "confused_with": {}
+  },
+  "accuracy": 0.9912587412587412,
   "macro avg": {
-    "precision": 0.9796194796194797,
-    "recall": 0.9702539964553696,
-    "f1-score": 0.9708587958587958,
+    "precision": 0.9907408172114055,
+    "recall": 0.9911255166689951,
+    "f1-score": 0.9905174632398545,
     "support": 572
   },
   "weighted avg": {
-    "precision": 0.9735398634000032,
-    "recall": 0.9597902097902098,
-    "f1-score": 0.9615328921272979,
+    "precision": 0.9921074246609005,
+    "recall": 0.9912587412587412,
+    "f1-score": 0.9913348265539949,
     "support": 572
   }
 }
